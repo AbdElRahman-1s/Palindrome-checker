@@ -10,4 +10,5 @@ function check(){
   const reverse = reverseString(value);
 
  value === reverse? alert("P A L I N D R O M E"): alert('Not today!');
+ input.value = "";
 }
